@@ -16,8 +16,8 @@ int main(void) {
 
 	std::cout << "The sum of " << num1 << " and " << num2 << " is " << the_great_adder(num1, num2) << '\n';
 	std::cout << "The multplication of " << num1 << " and " << num2 << " is " << the_great_multiplier(num1, num2) << '\n';
-	std::cout << "The multplication of " << num1 << " and " << num2 << " is " << the_great_subtractor(num1, num2) << '\n';
-	std::cout << "The multplication of " << num1 << " and " << num2 << " is " << the_great_divider(num1, num2) << '\n';
+	std::cout << "The subtraction of " << num1 << " by " << num2 << " is " << the_great_subtractor(num1, num2) << '\n';
+	std::cout << "The division of " << num1 << " by " << num2 << " is " << the_great_divider(num1, num2) << '\n';
 
 }
 
